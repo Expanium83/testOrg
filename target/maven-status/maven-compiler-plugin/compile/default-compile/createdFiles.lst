@@ -1,0 +1,6 @@
+com\test\enums\MessageStatus.class
+com\test\SampleBean.class
+com\test\controllers\OrganizationController.class
+com\test\repositories\OrganizationRepository.class
+com\test\services\OrganizationService.class
+com\test\entities\Organization.class
