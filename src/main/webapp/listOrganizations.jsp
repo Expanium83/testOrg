@@ -4,7 +4,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <link rel="stylesheet" href="resources/css/bootstrap.min.css">
+    <link rel="stylesheet" href="resources/css/material-design-lite.min.css">
     <link rel="stylesheet" href="resources/css/style.css">
     <title>Список организаций</title>
     <jsp:include page="header.jsp"/>
@@ -32,13 +32,11 @@
                     <label class="mdl-textfield__label">ИНН</label>
                     <input type="text" name="inn" class="mdl-textfield__input" pattern="[0-9]*"
                            >
-                    <%--<span class="mdl-textfield__error">Длина ИНН 10 или 12 цифр</span>--%>
                 </div>
                 <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
                     <label class="mdl-textfield__label">ОГРН</label>
                     <input type="text" name="ogrn" class="mdl-textfield__input" pattern="[0-9]*"
                            title="13 или 15 цифр">
-                    <span class="mdl-textfield__error">Длина ОГРН 13 или 15цифр</span>
                 </div>
             </div>
             <input type="reset" value="Очистить" class="mdl-button mdl-js-button mdl-button--primary mdl-butt"/>
