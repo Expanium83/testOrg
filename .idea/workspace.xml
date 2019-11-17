@@ -7,26 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd8ec8c2-4693-4a41-8530-504f5710e3d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/SampleBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/addOrganization.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/addOrganization.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/listOrganizations.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/listOrganizations.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/material-design-lite.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/SampleBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/services/OrganizationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/services/OrganizationService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT/WEB-INF/classes/com/test/SampleBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT/WEB-INF/classes/com/test/services/OrganizationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT/WEB-INF/classes/com/test/services/OrganizationService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT/WEB-INF/lib/commons-dbcp-1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT/WEB-INF/lib/commons-pool-1.5.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT/addOrganization.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT/addOrganization.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT/listOrganizations.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT/listOrganizations.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/task-1.0-SNAPSHOT/resources/css/bootstrap.min.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -102,11 +84,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/listOrganizations.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="38" column="95" selection-start-line="38" selection-start-column="95" selection-end-line="38" selection-end-column="95" />
+            <state relative-caret-position="267">
+              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/header.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="10" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/addOrganization.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="34" column="102" selection-start-line="34" selection-start-column="102" selection-end-line="34" selection-end-column="102" />
             </state>
           </provider>
         </entry>
@@ -167,11 +167,11 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationcontext.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/services/OrganizationServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/listOrganizations.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/addOrganization.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/controllers/OrganizationController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/services/OrganizationService.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/listOrganizations.jsp" />
       </list>
     </option>
   </component>
@@ -333,7 +333,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573999714006" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574000041349" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="database.console.LAST_STATE" value="false" />
@@ -578,8 +578,16 @@
       <option name="presentableId" value="Default" />
       <updated>1573894557831</updated>
       <workItem from="1573894561270" duration="32456000" />
-      <workItem from="1573962724486" duration="34205000" />
+      <workItem from="1573962724486" duration="34457000" />
     </task>
+    <task id="LOCAL-00001" summary="-garbage">
+      <created>1573999796942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573999796942</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -615,13 +623,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66661000" />
+    <option name="totallyTimeSpent" value="66913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16311301" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16311301" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -631,7 +639,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43888888" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43888888" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5366667" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -645,7 +653,7 @@
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="Version Control" order="16" visible="true" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -696,6 +704,36 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-garbage" />
+    <option name="LAST_COMMIT_MESSAGE" value="-garbage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -850,13 +888,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.1.RELEASE/spring-data-jpa-1.9.1.RELEASE.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
@@ -967,13 +998,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/addOrganization.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="102" selection-start-line="34" selection-start-column="102" selection-end-line="34" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/repositories/OrganizationRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1043,10 +1067,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/listOrganizations.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="38" column="95" selection-start-line="38" selection-start-column="95" selection-end-line="38" selection-end-column="95" />
+        <state relative-caret-position="267">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/addOrganization.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="102" selection-start-line="34" selection-start-column="102" selection-end-line="34" selection-end-column="102" />
         </state>
       </provider>
     </entry>

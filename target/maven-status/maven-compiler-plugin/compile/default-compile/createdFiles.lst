@@ -1,5 +1,0 @@
-com\test\enums\MessageStatus.class
-com\test\services\OrganizationService.class
-com\test\controllers\OrganizationController.class
-com\test\entities\Organization.class
-com\test\repositories\OrganizationRepository.class
