@@ -6,7 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 
 @Service("organizationService")
@@ -52,10 +51,14 @@ public class OrganizationService {
      * @param ogrn ОГРН организации;
      * @param name полное наименование организации;
      * @param address адрес организации.
-     * @return список организаций, т.к. если искать по адресу, то организаций может быть больше, чем одна.
+     * @return список организаций, если заполнен хоть один параметр, и null, если ни один параметр не заполнен.
      */
     public List<Organization> findOrganizatons(String inn, String ogrn, String name, String address) {
-        return organizationRepository.findOrganizations(name, inn, ogrn, address);
+        if (inn.isEmpty() && ogrn.isEmpty() && name.isEmpty() && address.isEmpty()) {
+            return null;
+        } else {
+            return organizationRepository.findOrganizations(name, inn, ogrn, address);
+        }
     }
 
     /**

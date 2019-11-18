@@ -94,7 +94,7 @@ public class OrganizationController {
                                    @RequestParam(value = "address", required = false) String address,
                                    Model model) {
         List<Organization> organizations = organizationService.findOrganizatons(inn, ogrn, name, address);
-        if (organizations.isEmpty()) {
+        if (organizations == null || organizations.isEmpty()) {
             List<Organization> organizationList = organizationService.getAllOrganization();
             model.addAttribute("getOrganizations", null);
             model.addAttribute(ORGANIZATION_NOT_FOUND.name(), true);
